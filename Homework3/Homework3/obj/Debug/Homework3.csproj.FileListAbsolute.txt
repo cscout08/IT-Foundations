@@ -1,0 +1,6 @@
+c:\source\IT-Foundations\Homework3\Homework3\bin\Debug\Homework3.exe.config
+c:\source\IT-Foundations\Homework3\Homework3\bin\Debug\Homework3.exe
+c:\source\IT-Foundations\Homework3\Homework3\bin\Debug\Homework3.pdb
+c:\source\IT-Foundations\Homework3\Homework3\obj\Debug\Homework3.csprojResolveAssemblyReference.cache
+c:\source\IT-Foundations\Homework3\Homework3\obj\Debug\Homework3.exe
+c:\source\IT-Foundations\Homework3\Homework3\obj\Debug\Homework3.pdb
