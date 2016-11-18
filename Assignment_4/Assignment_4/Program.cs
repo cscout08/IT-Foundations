@@ -11,7 +11,7 @@ class Assignment4
 
         string str = Console.ReadLine();
 
-        int n = int.Parse(str);  // Gets numbers to calculate
+        3int n = int.Parse(str);  // Gets numbers to calculate
 
         int Max;
         int Fact;
